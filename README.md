@@ -1,4 +1,4 @@
-👋 Hello, I’m @NadulaKadawedduwa, currently a Senior at University of Maryland, College Park pursuing a Bachelors in Computer Science. M.S in Machine Learning by 2025
+👋 Hello, I’m @NadulaKadawedduwa, currently a first year Masters Student (CS) at University of Maryland, College Park with a Bachelors in Computer Science.
 
 👀 I mainly work with ML models and specialize in Computer Vision. See my repos for some previous research and writings.
 
