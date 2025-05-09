@@ -2,7 +2,7 @@
 
 👀 I mainly work with ML models and specialize in Computer Vision. See my repos for some previous research and writings.
 
-💞️ Currently conducting graduate research in the Intelligent Sensing (Comptuer Vision) Lab at UMD. I hope to eventually publish my own papers instead of reading them for a change.
+💞️ Currently conducting graduate research in the Intelligent Sensing (Comptuer Vision) Lab at UMD. Hoping to make CVPR deadlines.
 
 📫 Emails: nadulakadawedduwa@gmail.com (Most often checked)
             nkadawed@umd.edu
