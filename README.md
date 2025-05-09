@@ -4,6 +4,4 @@
 
 💞️ Currently conducting graduate research in the Intelligent Sensing (Comptuer Vision) Lab at UMD. Hoping to make CVPR deadlines.
 
-📫 Emails: nadulakadawedduwa@gmail.com (Most often checked)
-            nkadawed@umd.edu
-            nadula.kadawedduwa@outlook.com
+📫 Emails: (Most often checked) nadulakadawedduwa@gmail.com, nkadawed@umd.edu, nadula.kadawedduwa@outlook.com
